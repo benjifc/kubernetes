@@ -14,7 +14,7 @@ $ sudo nano /etc/docker/daemon.json
                 "insecure-registries" : ["localhost:32000"]
             }
 
-$nano .bashrc 
+$ nano .bashrc 
 
         alias kubectl='microk8s kubectl'
         alias k='kubectl'
